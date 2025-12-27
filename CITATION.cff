@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you refer to this article, please cite it as below."
+
+version: 1.0.0
+date-released: 2023-08-14
+title: "Terraform, AWS & Sourcing Secrets"
+url: "https://writing.aeydr.dev/notes/terraform-aws-secretsmanager-for-provider-secrets"
+authors:
+- given-names: "aeydr"
+
+preferred-citation:
+  type: article
+  journal: "The Architectural Decision Record"
+  authors:
+  - given-names: "aeydr"
+
+  title: "Terraform, AWS & Sourcing Secrets"
+  month: 08
+  year: 2023
