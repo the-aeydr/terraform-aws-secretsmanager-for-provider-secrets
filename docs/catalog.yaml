@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: terraform-aws-secretsmanager-for-provider-secrets
+  description: A _coupled_ pattern for sourcing provider secrets from AWS SecretsManager
+  tags:
+    - terraform
+    - terraform
+  annotations:
+    displayName: Terraform, AWS & Sourcing Secrets
+    github.com/project-slug: the-aeydr/terraform-aws-secretsmanager-for-provider-secrets
+spec:
+  type: documentation
+  lifecycle: experimental
